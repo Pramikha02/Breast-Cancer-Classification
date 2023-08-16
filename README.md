@@ -3,7 +3,8 @@
 
 The term “breast cancer” refers to a malignant tumor that has developed from cells in the breast. Usually breast cancer either begins in the cells of the lobules, which are the milk-producing glands, or the ducts, the passages that drain milk from the lobules to the nipple. Less commonly, breast cancer can begin in the stromal tissues, which include the fatty and fibrous connective tissues of the breast.
 
-0 - beningn tumour
-1 - Malignant tumour
+We analyse the tumour and classify them as: \n
+0 - beningn tumour \n
+1 - Malignant tumour \n
 </p>
 
